@@ -1,0 +1,10 @@
+name: BetterSkulls
+version: '${project.version}'
+main: me.shreyasayyengar.betterskulls.BetterSkullsPlugin
+api-version: 1.18
+prefix: BetterSkulls
+author: Shreyas Ayyengar
+description: /skull command from EssentialsX into a standalone plugin.
+
+commands:
+  skull:
